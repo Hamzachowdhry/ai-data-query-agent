@@ -19,7 +19,6 @@ I designed and deployed an AI-powered query agent that:
 
 ## 🧠 Architecture
 - **LLM**: GPT-4 via LangChain
-- **Semantic Search**: Pinecone
 - **Backend**: FastAPI
 - **UI**: Gradio (no-code, self-serve)
 - **Database**: SQL
